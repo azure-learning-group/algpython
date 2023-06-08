@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "algpython_STORAGE": "DefaultEndpointsProtocol=https;AccountName=algpython;AccountKey=6ORmCN8cT3uMNokptME5aeIiXPR/MVvN85A+A1IUBhQ1KTOzGXO5+WqGaPYsnnUhycudtqxAfpEO+AStGHRHBg==;EndpointSuffix=core.windows.net"
+  }
+}
